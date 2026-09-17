@@ -1,18 +1,33 @@
-# Risk Register Template
+# Risk Register — Practical PMO Template
 
-| ID | Risk | Category | Probability | Impact | Risk level | Response | Owner | Due date | Status |
-|---|---|---|---|---|---|---|---|---|---|
-| R-001 | | | | | | | | | Open |
-| R-002 | | | | | | | | | Open |
-| R-003 | | | | | | | | | Open |
+## Purpose
 
-## Response Types
+A risk register turns uncertainty into an explicit management process: **identify → assess → respond → monitor**.
 
-- Avoid
-- Mitigate
-- Transfer
-- Accept
+| ID | Risk | Cause | Impact | Probability (1–5) | Impact (1–5) | Score | Response | Owner | Trigger | Status |
+|---|---|---|---|---:|---:|---:|---|---|---|---|
+| R-01 | | | | | | | Avoid / Reduce / Transfer / Accept | | | Open |
+| R-02 | | | | | | | | | | Open |
 
-## Review Guidance
+### Scoring
 
-Review risks regularly, update probability and impact as the project evolves, and link mitigation actions to named owners and deadlines.
+**Risk score = Probability × Impact**
+
+| Score | Management attention |
+|---:|---|
+| 1–4 | Monitor |
+| 5–9 | Action may be required |
+| 10–16 | Active mitigation |
+| 17–25 | Escalate / prioritize |
+
+### Risk Review
+
+For each review cycle:
+1. Validate whether the risk still exists.
+2. Update probability and impact.
+3. Check mitigation effectiveness.
+4. Record emerging risks.
+5. Escalate risks exceeding agreed thresholds.
+6. Close risks only when evidence supports closure.
+
+> Thresholds should be adapted to the project's governance model; the scale above is an example, not a universal standard.
