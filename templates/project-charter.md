@@ -1,64 +1,73 @@
-# Project Charter Template
+# Project Charter — Practical PMO Template
 
-## 1. Project Overview
+## 1. Project Identification
 
-**Project name:**  
-**Project sponsor:**  
-**Project manager:**  
-**Business area:**  
-**Start date:**  
-**Target end date:**  
+| Field | Definition |
+|---|---|
+| Project name | Clear project title |
+| Sponsor | Executive owner |
+| Project lead | Person accountable for delivery |
+| Business owner | Operational owner |
+| Start / target end | Planned timeline |
+| Strategic objective | Business outcome supported |
 
 ## 2. Business Need
 
-Describe the business problem, opportunity or strategic need driving the project.
+Describe the problem, opportunity or transformation need in 3–5 lines.
 
-## 3. Objectives
+**Problem statement:**  
+What is happening today, and why does it require a structured project?
 
-- Objective 1
-- Objective 2
-- Objective 3
+**Expected value:**  
+What measurable or observable improvement should the project create?
 
-Objectives should be specific, measurable and aligned with the expected business outcome.
+## 3. Objectives & Success Criteria
+
+Use SMART objectives where possible.
+
+| Objective | Baseline | Target | Measure | Owner |
+|---|---:|---:|---|---|
+| Objective 1 | | | | |
+| Objective 2 | | | | |
+| Objective 3 | | | | |
 
 ## 4. Scope
 
-### In scope
+**In scope**
 - 
-- 
-
-### Out of scope
 - 
 - 
 
-## 5. Key Deliverables
+**Out of scope**
+- 
+- 
+- 
 
-| Deliverable | Owner | Target date | Status |
-|---|---|---|---|
-| | | | |
+## 5. Deliverables
 
-## 6. Stakeholders
+| Deliverable | Acceptance criterion | Due date |
+|---|---|---|
+| | | |
 
-| Stakeholder | Role | Influence | Interest | Engagement approach |
-|---|---|---|---|---|
-| | | | | |
+## 6. Governance
 
-## 7. Key Risks & Assumptions
+Define sponsor, project lead, workstream owners, decision forums, reporting cadence and escalation path.
 
-| Risk / Assumption | Impact | Likelihood | Response / Action |
-|---|---|---|---|
-| | | | |
+**Governance rhythm:** weekly operational review / monthly steering review / ad-hoc escalation as required.
 
-## 8. Success Measures
+## 7. Assumptions & Constraints
 
-Define the KPIs or outcomes that will determine whether the project has achieved its objectives.
+| Type | Statement | Impact if false |
+|---|---|---|
+| Assumption | | |
+| Constraint | | |
 
-## 9. Governance
+## 8. High-Level Milestones
 
-Define decision rights, meeting cadence, reporting and escalation mechanisms.
+**Initiate → Diagnose → Design → Implement → Measure → Stabilize → Close**
 
-## 10. Approval
+## 9. Approval
 
-**Sponsor:**  
-**Date:**  
-**Approval:**  
+Project charter approval confirms alignment on objectives, scope, governance and expected outcomes.
+
+> Use this template to establish a common project baseline before detailed planning begins.
