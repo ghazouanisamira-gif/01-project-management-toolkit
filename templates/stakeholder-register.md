@@ -1,14 +1,20 @@
-# Stakeholder Register Template
+# Stakeholder Register — Practical PMO Tool
 
-| Stakeholder | Role / Interest | Influence | Impact | Current engagement | Desired engagement | Communication needs | Owner |
-|---|---|---|---|---|---|---|---|
-| | | High / Medium / Low | High / Medium / Low | | | | |
-| | | | | | | | |
+Stakeholder management starts with understanding **influence, interest, expectations and engagement needs**.
 
-## Engagement Principles
+| Stakeholder | Role | Interest | Influence | Expectations | Engagement | Owner |
+|---|---|---|---|---|---|---|
+| Executive sponsor | Decision / sponsorship | High | High | Visibility, outcomes | Manage closely | Project Lead |
+| Business owner | Operational ownership | High | High | Usable solution | Manage closely | Project Lead |
+| Operational teams | Users / contributors | High | Medium | Clarity, support | Involve actively | Workstream Lead |
+| Quality / control functions | Governance | Medium–High | Medium | Compliance, evidence | Consult regularly | Project Lead |
+| Technology / support | Enabler | Medium | Medium | Clear requirements | Consult as needed | Project Lead |
 
-1. Identify stakeholders early.
-2. Assess influence, impact and expectations.
-3. Define an appropriate engagement approach.
-4. Review stakeholder needs throughout the project.
-5. Record significant decisions and concerns.
+## Engagement logic
+
+**High influence + high interest:** manage closely  
+**High influence + low interest:** keep satisfied  
+**Low influence + high interest:** keep informed and involved  
+**Low influence + low interest:** monitor
+
+> Stakeholder mapping should be refreshed when project scope, risks or organizational dynamics change.
