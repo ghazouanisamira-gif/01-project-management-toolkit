@@ -1,42 +1,54 @@
-# Project Status Report Template
+# Project Status Report — PMO Template
 
-## Project Information
+## Reporting Period
 
 **Project:**  
-**Project Manager:**  
-**Reporting period:**  
+**Period:**  
+**Project Lead:**  
 **Overall status:** Green / Amber / Red
 
-## Executive Summary
+## 1. Executive Summary
 
-Briefly summarize progress, key achievements, issues and decisions required.
+- Progress this period:
+- Main achievement:
+- Main concern:
+- Decision required:
 
-## Progress
+## 2. Workstream Status
 
-| Workstream / Deliverable | Planned | Actual | Status | Next step |
-|---|---|---|---|---|
+| Workstream | Progress | Status | Key achievement | Next action | Owner |
+|---|---:|---|---|---|---|
+| Governance | | | | | |
+| Process | | | | | |
+| People / Change | | | | | |
+| Technology / Data | | | | | |
+
+## 3. Milestones
+
+| Milestone | Planned | Actual / Forecast | Status |
+|---|---|---|---|
+| | | | |
+
+## 4. Risks & Issues
+
+| ID | Type | Description | Impact | Action | Owner | Status |
+|---|---|---|---|---|---|---|
+
+## 5. KPI Snapshot
+
+| KPI | Baseline | Current | Target | Trend |
+|---|---:|---:|---:|---|
 | | | | | |
 
-## KPI Snapshot
+## 6. Decisions / Escalations
 
-| KPI | Target | Current | Trend | Comment |
-|---|---|---|---|---|
-| | | | | |
+| Decision needed | By whom | Deadline | Consequence if delayed |
+|---|---|---|---|
 
-## Risks & Issues
+## 7. Next Period
 
-| ID | Description | Impact | Owner | Mitigation / Action | Status |
-|---|---|---|---|---|---|
-| | | | | | |
+- 
+- 
+- 
 
-## Decisions Required
-
-- Decision:
-- Decision owner:
-- Required by:
-
-## Next Period
-
-- Priority 1
-- Priority 2
-- Priority 3
+**Reporting principle:** a status report should support decisions, not simply document activity.
