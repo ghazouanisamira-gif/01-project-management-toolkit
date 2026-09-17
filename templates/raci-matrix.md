@@ -1,18 +1,21 @@
-# RACI Matrix Template
+# RACI Matrix — Practical Governance Tool
 
-| Activity / Deliverable | Sponsor | Project Manager | Business Owner | Contributor | Stakeholder |
-|---|---|---|---|---|---|
-| Project initiation | A | R | C | I | I |
-| Planning | C | R | A | C | I |
-| Execution | I | A | R | R | C |
-| Monitoring | C | R | A | C | I |
-| Closure | A | R | C | I | I |
+RACI clarifies accountability across cross-functional workstreams and prevents ownership gaps.
 
-## RACI Definitions
+| Activity / Deliverable | Sponsor | Project Lead | Operations | Quality | IT / Support | Business Owner |
+|---|---|---|---|---|---|---|
+| Define objectives | A | R | C | C | I | C |
+| Diagnose current state | I | R | R | C | C | A |
+| Design solution | C | R | C | C | C | A |
+| Approve implementation | A | R | C | C | I | A |
+| Monitor KPIs | I | R | R | C | C | A |
+| Corrective actions | I | R | R | A | C | C |
 
-- **R — Responsible:** performs the work.
-- **A — Accountable:** owns the outcome and final decision.
-- **C — Consulted:** provides input.
-- **I — Informed:** kept informed of progress or decisions.
+**R = Responsible · A = Accountable · C = Consulted · I = Informed**
 
-Adapt roles to the governance model of each project.
+### Good-practice checks
+
+- Every major activity has one clear **Accountable** owner.
+- Avoid assigning too many **Responsible** roles.
+- Consulted stakeholders should contribute before the decision, not after.
+- Informed stakeholders receive the right level of reporting without becoming approval bottlenecks.
