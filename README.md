@@ -58,3 +58,12 @@ The templates and examples published here contain no confidential client informa
 
 **Samira Ghazouani**  
 PMP® | Lean Six Sigma Black Belt
+
+## Related Portfolio Evidence
+
+This toolkit is supported by applied evidence across the portfolio:
+
+- [EMEA Quality Governance & Multi-Provider Transformation](https://github.com/ghazouanisamira-gif/07-emea-quality-governance-transformation)
+- [Lean Six Sigma Transformation](https://github.com/ghazouanisamira-gif/04-lean-six-sigma-transformation)
+- [Operational Structuring & Performance Transformation](https://github.com/ghazouanisamira-gif/06-operational-structuring-case-study)
+- [AI Transformation & Governance](https://github.com/ghazouanisamira-gif/09-ai-transformation-governance)
