@@ -6,7 +6,7 @@ A practical collection of project management and PMO tools designed to support p
 
 This repository demonstrates a practical approach to structuring and managing projects across cross-functional environments.
 
-**Project Period:** Multi-period professional experience  
+**Project Period:** Multi-period professional experience
 **Portfolio Documentation:** 2026
 
 The toolkit consolidates practices and reusable tools developed and applied across different professional contexts rather than representing a single historical project.
